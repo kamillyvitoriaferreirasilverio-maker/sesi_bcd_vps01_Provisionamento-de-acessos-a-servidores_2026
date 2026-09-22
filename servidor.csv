@@ -1,4 +1,4 @@
-id;nome;hostname;ip;sistema_operacional;ambiente
-1;Servidor de Olimpo;olimpo-srv01;192.168.1.10;Linux Ubuntu 22.04;Produção
-2;Servidor de Treinamento;camp-srv02;192.168.1.20;Windows Server 2022;Homologação
-3;Servidor do Lab de Atena;atena-lab01;192.168.1.30;Debian 11;Desenvolvimento
+id,nome,hostname,ip,sistema_operacional,ambiente
+1,Servidor de Olimpo,olimpo-srv01,192.168.1.10,Linux Ubuntu 22.04,ProduÃ§Ã£o
+2,Servidor de Treinamento,camp-srv02,192.168.1.20,Windows Server 2022,HomologaÃ§Ã£o
+3,Servidor do Lab de Atena,atena-lab01,192.168.1.30,Debian 11,Desenvolvimento
