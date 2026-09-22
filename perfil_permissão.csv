@@ -1,0 +1,4 @@
+id;nome;descrição;nivel_acesso
+1;Administrador (Root);Acesso total e irrestrito ao sistema;1
+2;Desenvolvedor;Acesso para Deploy e Leitura de Logs;3
+3;Segurança e Auditoria;Acesso de monitoramento e análise de vulnerabilidades;2

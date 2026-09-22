@@ -1,0 +1,5 @@
+id;nome;email;cargo;departamento;status
+1;Percy Jackson;percy.jackson@gmail.com;Líder de Operações;Sistemas;Ativo
+2;Annabeth Chase;annabeth.chase@gmail.com;Arquiteta de Software;Engenharia;Ativo
+3;Grover Underwood;grover.underwood@gmail.com;Analista de Segurança;TI;Ativo
+4;Nico di Angelo;nico.diangelo@gmail.com;Administrador de BD;TI;Ativo
