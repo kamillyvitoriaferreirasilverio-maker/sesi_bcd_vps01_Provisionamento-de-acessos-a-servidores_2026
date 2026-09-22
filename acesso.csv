@@ -1,5 +1,5 @@
-id;id_conta;id_perfil;data_inicio;data_fim;status
-1;1;2;10/01/2026 09:05;31/12/2026 23:59;Ativo
-2;2;1;15/01/2026 10:35;;Ativo
-3;3;3;01/02/2026 14:05;;Ativo
-4;4;1;10/02/2026 11:25;;Ativo
+id,id_conta,id_perfil,data_inicio,data_fim,status
+1,1,2,10/01/2026 09:05,31/12/2026 23:59,Ativo
+2,2,1,15/01/2026 10:35,,Ativo
+3,3,3,01/02/2026 14:05,,Ativo
+4,4,1,10/02/2026 11:25,,Ativo
