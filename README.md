@@ -54,7 +54,7 @@ Os dados de teste foram separados em arquivos CSV:
 - [usuario.csv](usuario.csv)
 - [servidor.csv](servidor.csv)
 - [conta_acesso.csv](conta_acesso.csv)
-- [perfil_permissao.csv](perfil_permissao.csv)
+- [perfil_permissão.csv](perfil_permissão.csv)
 - [acesso.csv](acesso.csv)
 
 ## Script SQL DDL
